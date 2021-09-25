@@ -74,7 +74,7 @@
 ## `THANKS TO`
 
 - [`Nayla`]()
-- [`Rynz`]()
+- [`Rimuru Botz`]()
 - [`Loki Killers`]()
 - [`Ara-Ara`]()
 - [`All creator bot`]()
@@ -82,5 +82,5 @@
 ## ```COFFEE```
 
 - [`SAWERIA`](https://saweria.co/AnimeSeleraku)
-- [`SOSMED`] (https://instabio.cc/Rimuru)
+- [`SOSMED`](https://instabio.cc/Rimuru)
 
