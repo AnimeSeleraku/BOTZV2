@@ -30,7 +30,7 @@
 1. Git clone this repo<br/>
 
 ```
-> git clone https://github.com/zeeoneofc/BOTZ10a.git
+> git clone https://github.com/Animeselerakuu/BOTZV2.git
 > cd BOTZ10a
 > npm i
 ```
@@ -81,6 +81,6 @@
 
 ## ```COFFEE```
 
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
-
+- [`SAWERIA`](https://saweria.co/AnimeSeleraku)
+- [`SOSMED`] (https://instabio.cc/Rimuru)
 
